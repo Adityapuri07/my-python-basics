@@ -1,7 +1,7 @@
 # conditions for sets
 
 # first condition add
-# set={2,5,6,"hello",8,9,10}
+set={2,5,6,"hello",8,9,10}
 # set.add(12)
 # print(set)
 
@@ -51,25 +51,27 @@
 
 # using ddic condition 
 dic={"abhi":20,"jatin":30,"rahul":50}
-# dic.clear()
+# # dic.clear()
 # print(dic)
 
 # using copy 
 # vv=dic.copy()
 # print(vv)
 
-# using fromkeys 
+# using fromkeys (will make the valeu none in all )
 # mm=dic.fromkeys(dic)
 # print(mm)
 
 
-# using gets
+# using gets (will give the valeu of the particular valeu of what we addd in brackets())
 # vv=dic.get("abhi")
 # print(vv)
 
 
 
 # using item 
+# vv=dic.items()
+# print(vv)
 
 
 

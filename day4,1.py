@@ -24,8 +24,8 @@
 # print(people)
 
 # using popm conditon in list 
-li=[2,3,6,4,5,6,5]
-# li.pop()
+# li=[2,3,6,4,5,6,5]
+# # li.pop()
 # print(li)
 # li.extend([2,3,4,4,4])
 # vv=li.count(5)

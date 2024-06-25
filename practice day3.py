@@ -2,7 +2,7 @@
 # list sec tuples dictionaries
 
 # try list in order
-li=[2,2,3,4,5,6,]
+# li=[2,2,3,4,5,6,]
 # print(li)
 
 
@@ -47,4 +47,3 @@ li=[2,2,3,4,5,6,]
 # dic = {'a':88,'b':99,'c':77}
 # dic['b']=900
 # print(dic)
-

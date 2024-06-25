@@ -2,7 +2,7 @@
 
 #strings
 v= "today i have learned all the data types of python"
-print(v)
+print("today i have learned all the data types of python")
 print(type(v))
 
 #examples of integers

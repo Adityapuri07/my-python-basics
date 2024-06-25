@@ -19,4 +19,9 @@
 # print(a**b)
 # print(type(a))
 
-valeu=50.50
+# valeu=50.50
+
+# a=50
+# b=50
+
+# print(a*b)
